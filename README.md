@@ -6,7 +6,8 @@ Seeking a position in a dynamic organization where I can launch my career and wo
 
 Skills:  React JS / JavaSrcipt / HTML / CSS /
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning TypeScript, Redux, React-Native
+- 💬 Ask me about Web development, Programming, React
 
 
 
