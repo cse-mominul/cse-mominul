@@ -5,8 +5,6 @@
 ![Profile views](https://gpvc.arturio.dev/cse-mominul)  
 Seeking a position in a dynamic organization where I can launch my career and work towards building a strong skill set. A hard working individual looking for a challenging position where I can showcase my skills and contribute to the growth of the organization
 
-Skills:  React JS / JavaSrcipt / HTML / CSS /
-
 - 🌱 I’m currently learning TypeScript, Redux, React-Native
 - 💬 Ask me about Web development, Programming, React
 
