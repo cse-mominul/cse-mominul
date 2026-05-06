@@ -1,14 +1,24 @@
-# 🚀 DevOps Engineer | System Administrator
+# 🚀 DevOps & Infrastructure 
 
-![Header Image](https://capsule-render.vercel.app/render?type=waving&color=gradient&height=220&section=header&text=Hi,%20I'm%20Mominul%20Islam&fontSize=50&animation=fadeIn)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moki98/moki98/master/header.png" onerror="this.src='https://dummyimage.com/800x200/0d1117/ffffff.png&text=Welcome+to+My+DevOps+Journey'" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mominul+Islam;DevOps+Engineer;Infrastructure+Architect;Full-Stack+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 ### 👨‍💻 About Me
-I am a passionate **DevOps & Cloud Engineer** specializing in automating infrastructure and building scalable environments. I love bridge the gap between development and operations.
+I am a **Technical Professional** specializing in system administration, network engineering, and DevOps. I build high-performance infrastructure and automated deployment pipelines.
 
-- 🔭 **Working on:** High-performance cloud infrastructure and CI/CD automation.
-- ☁️ **Specialization:** Enterprise Virtualization (CloudStack, Proxmox, XCP-ng).
-- 🛠️ **DevOps Stack:** Docker, Kubernetes, GitHub Actions, and n8n.
-- ⚡ **Fun Fact:** I love minimalist "Apple-style" UI/UX and clean code.
+- 🔭 **Focus:** Enterprise Virtualization (CloudStack, Proxmox) & CI/CD.
+- ☁️ **Cloud:** Managing scalable environments and data center infrastructure.
+- 🛠️ **DevOps:** Automating workflows with GitHub Actions & Docker.
+- 🎨 **Design:** I prefer clean, minimalist, and Apple-inspired UI.
 
 ---
 
@@ -16,37 +26,29 @@ I am a passionate **DevOps & Cloud Engineer** specializing in automating infrast
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Virtualization** | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![CloudStack](https://img.shields.io/badge/Apache_CloudStack-000?style=for-the-badge&logo=apache&logoColor=white) |
-| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| **Automation** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) |
-| **Development** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| **Monitoring** | ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
+| **Virtualization** | `Proxmox` `Apache CloudStack` `XCP-ng` |
+| **Containers** | `Docker` `Kubernetes` |
+| **Automation** | `GitHub Actions` `n8n` `Ansible` |
+| **Development** | `MERN Stack` `React` `Tailwind CSS` |
+| **Monitoring** | `Zabbix` `Grafana` `Datadog` |
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=radical" />
+### 📊 GitHub Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 🚀 Top Projects
-- **SkyCluster:** Centralized cloud storage aggregator for managing multiple drives.
-- **DigiCart:** A modern MERN stack e-commerce platform with Apple-style UI.
-- **Auto-Deploy:** Automated CI/CD pipelines for CloudStack VM environments.
 
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
