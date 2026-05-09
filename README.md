@@ -1,8 +1,6 @@
 # 🚀 DevOps & Infrastructure Engineer
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/moki98/moki98/master/header.png" onerror="this.src='https://dummyimage.com/800x200/0d1117/ffffff.png&text=Welcome+to+My+DevOps+Journey'" width="100%" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
