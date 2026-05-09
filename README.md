@@ -1,10 +1,7 @@
-# 🚀 DevOps & Infrastructure Engineer
-
-
-
+# 🚀 DevOps Engineer
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mominul+Islam;DevOps+Engineer;Infrastructure+Architect;Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mominul+Islam;DevOps+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
