@@ -27,16 +27,6 @@ I am a **Technical Professional** specializing in system administration, network
 | **Development** | `MERN Stack` `React` `Tailwind CSS` |
 | **Monitoring** | `Zabbix` `Grafana` `Datadog` |
 
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
